@@ -9,10 +9,9 @@
   ],
   "license": "MIT",
   "require": {
-    "php": "^7.4",
+    "php": "^7.4 || ^8.0",
     "ext-json": "*",
-    "guzzlehttp/guzzle": "^7.3",
-    "symfony/var-dumper": "^5.4"
+    "guzzlehttp/guzzle": "^7.3"
   },
   "require-dev": {
     "vimeo/psalm": "^4.6.0",
