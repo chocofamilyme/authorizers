@@ -1,5 +1,12 @@
 # Библиотека для авторизации через сервис rbac
 
+### Установка
+
+```shell
+composer require chocofamilyme/authorizers
+```
+
+### Примеры
 1. Авторизация по терминалу
 ```php
 $rbac = new \Chocofamilyme\Authorizers\Rbac('host');
